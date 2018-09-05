@@ -1,2 +1,7 @@
 # hello-world
-Hopefully I learn something from this
+
+Hi There!
+
+My name is Patrick, but you can call me Pat.
+
+Thanks!
